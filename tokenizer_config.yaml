@@ -1,0 +1,7 @@
+time_resolution: 0.01
+float_decimal: 2
+vocab_size:
+  special: 2
+  note: 128
+  velocity: 128
+  time: 1200
